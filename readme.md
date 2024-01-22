@@ -8,3 +8,4 @@ The contents of this repository are organized as follows:
 - `RQ2 Usage`: Analyze the impacts of IRT adoption on project characteristics.
 - `RQ3 Evolution`: Studying the evolution of IRT over time.
 - `RQ4 Impact`: Analyze the relationship between IRT adoption and program outcomes using regression models.
+- `characteristics_repo.csv`: The dataset is too large for the GitHub file size limit. Interested developers can head over to [GIRT-DATA](https://github.com/kargaranamir/girt-data?tab=readme-ov-file) to download the
